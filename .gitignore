@@ -1,0 +1,7 @@
+/code/ising
+/obj/**/*
+/eq_sim_data/**/*
+/sim_data/**/*
+/literature/**/*
+/plots/**/*
+/lats/**/*

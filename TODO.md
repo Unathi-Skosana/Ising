@@ -1,0 +1,3 @@
+- Add comments
+- Clean up functionality
+- Add setup script
