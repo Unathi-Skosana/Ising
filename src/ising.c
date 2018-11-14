@@ -128,7 +128,7 @@ int main(int argc, char *argv[])
           break;
       }
       fprintf(stderr,"\n\n...exited successfully...\n\n");
-    } else if (strcmp("--m", s) == 0) {
+    } else if (strcmp("--p", s) == 0) {
       char *fn, *f_cpy;
       int opt;
 
